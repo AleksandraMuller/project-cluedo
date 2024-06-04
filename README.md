@@ -15,4 +15,4 @@ I have built a piece of the famous board game Cluedo by the use of HTML, CSS and
 
 ## Deployed version 🚀
 
-https://cluedo-game-aleksandra.netlify.com/
+https://cluedo-game-aleksandra.netlify.app/
